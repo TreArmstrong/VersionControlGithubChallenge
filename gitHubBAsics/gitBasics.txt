@@ -1,0 +1,9 @@
+1. The terminal to me is a place where you use commands to navigate your computer.
+2.The major difference between Git and GitHub is Git is a vcs that lets you manage changes to your code, while GitHub is an online-based system that hosts and lets you manage Git repositories.
+3. step 1: go to GitHub.com. 
+step 2: click fork. 
+step 3: under "owner", click an owner. 
+step 4: in the "Repository name" field, type a name. 
+step 5:type a description in the description field. 
+step 6: copy Default branch only. 
+step 7: create fork
